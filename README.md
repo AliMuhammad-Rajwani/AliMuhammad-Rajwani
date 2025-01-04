@@ -112,7 +112,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alimuhammadrajwani/">
-    <img src=" https://www.linkedin.com/in/ali-muhammad-0621b71b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="LinkedIn" />
+    <img src=" https://www.linkedin.com/in/ali-muhammad-0621b71b1?utm_source=share" alt="LinkedIn" />
   </a>
   <a href="mailto:alirajwani59@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
