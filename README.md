@@ -111,8 +111,8 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alimuhammadrajwani/" target="_blank">
-    <img src="https://www.linkedin.com/in/ali-muhammad-0621b71b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="LinkedIn Profile" style="width:50px; height:50px;">
+<a href="https://www.linkedin.com/in/alimuhammadrajwani/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
 
   <a href="mailto:alirajwani59@gmail.com">
