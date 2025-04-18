@@ -70,8 +70,12 @@ motto: "Lifelong Learner | Problem Solver | Tech Innovator"
 ## 📊 GitHub Stats & Contribution
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alimuhammad-Rajwani&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alimuhammad-Rajwani&theme=tokyonight" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alimuhammad-Rajwani&show_icons=true&theme=monokai&count_private=true&include_all_commits=true" alt="GitHub Stats" width="350"/>
+  
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alimuhammad-Rajwani&theme=monokai" alt="GitHub Profile Summary" width="350"/>
 </div>
 
 ---
