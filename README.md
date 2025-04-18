@@ -27,7 +27,7 @@ motto: "Lifelong Learner | Problem Solver | Tech Innovator"
 ## 🚀 My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,cpp,react,linux,html,css,js,kubernetes,docker,azure,aws,git,vscode&perline=8" alt="Skills Icons" />
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp,linux,html,css,js,azure,git,vscode&perline=8" alt="Skills Icons" />
 </p>
 
 ---
